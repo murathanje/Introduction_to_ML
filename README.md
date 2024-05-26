@@ -1,4 +1,18 @@
-# Introduction to Machine Learning
-<p>&nbsp;&nbsp;A starter guide github repository for people interested in AI and machine learning.  I chose the Python programming language because when I created this repository, it was widely used for machine learning and artificial intelligence. I also introduced and used libraries like Numpy, Pandas, Matplotlib, SKlearn, etc. that are commonly used for data science.</p>
-<p>&nbsp;&nbsp;In this repository you can find out what machine learning is and basic machine learning algorithms; like KNN, Linear Regression, Logistic Regression, SVM, Naive Bayes (etc.).</p>
-<p>&nbsp;&nbsp;It is also one of my personal goals to prove that machine learning is based on a purely mathematical and statistical basis.</p>
+# Introduction to Machine Learning CourseWorks
+
+## Course Overview
+
+This repository contains courseworks for the "Introduction to Machine Learning" course. The course aims to provide students with a solid foundation in machine learning concepts, algorithms, and applications. It covers both theoretical aspects and practical implementations using popular machine learning libraries.
+
+## Course Structure
+
+The course is structured into several modules, each focusing on a specific aspect of machine learning. These modules include:
+
+1. **Introduction to Machine Learning**: Understanding what machine learning is, its history, and its importance in today's world.
+2. **Mathematical Foundations**: Covering essential mathematical concepts such as linear algebra, calculus, and probability theory that underpin machine learning algorithms.
+3. **Supervised Learning**: Exploring supervised learning techniques including regression, classification, and decision trees.
+4. **Unsupervised Learning**: Delving into unsupervised learning methods like clustering and dimensionality reduction.
+5. **Reinforcement Learning**: Introducing reinforcement learning concepts and how agents learn from interactions with their environment.
+6. **Deep Learning**: An overview of deep learning, neural networks, and their applications in various domains.
+
+Each module includes lecture notes, assignments, and projects designed to reinforce the concepts taught.
