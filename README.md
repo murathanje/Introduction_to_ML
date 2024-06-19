@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This repository contains courseworks for the "Introduction to Machine Learning" course. The course aims to provide students with a solid foundation in machine learning concepts, algorithms, and applications. It covers both theoretical aspects and practical implementations using popular machine learning libraries
+This repository contains courseworks for the "Introduction to Machine Learning" course. The course aims to provide students with a solid foundation in machine learning concepts, algorithms, and applications. It covers both theoretical aspects and practical implementations using popular machine learning libraries.
 
 ## Course Structure
 
